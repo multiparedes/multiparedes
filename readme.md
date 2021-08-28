@@ -3,9 +3,11 @@
 Hola, soy Martí Paredes, ahora soy estudiante de Ingenieria Informática en la
 *Universidad de las Islas Baleares* (UIB). Las ramas de informática que mas me llaman són seguridad infromática, estadística y tecnologia blockchain.
 
-# En mis tiempos libres he hecho un par de programas: #
+### En mis tiempos libres he hecho un par de programas: ###
 - **[Multibot](https://github.com/multiparedes/Multibot)** - Un bot de Discord escrito en Python 🐍. 
 - Mas proyectos interesantes por venir... 
+
+<br />
 
 ### **Lenguajes en los que sé programar:** ###
 
