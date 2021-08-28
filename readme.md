@@ -8,6 +8,7 @@ Hola, soy Martí Paredes, ahora soy estudiante de Ingenieria Informática en la
 - Mas proyectos interesantes por venir... 
 
 <br />
+
 ---
 
 ### **Lenguajes en los que sé programar:** ###
